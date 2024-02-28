@@ -3,9 +3,9 @@ from googletrans import Translator
 from languages import *
 
 
-st.title("Language Translation App")
+st.title("Language Translation")
 source_text = st.text_area("Enter text to translate:")
-target_language = st.selectbox("Select target language:", languages)
+target_language = st.selectbox("Select the language:", languages)
 translate = st.button('Translate')
 if translate:
     translator = Translator()
