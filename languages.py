@@ -1,7 +1,7 @@
 languages = [
     "Arabic",
     "English",
-    "Mandarin Chinese",
+    "Chinese",
     "French",
     "German",
     "Hindi",
