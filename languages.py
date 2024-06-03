@@ -1,7 +1,6 @@
 languages = [
     "Arabic",
     "English",
-    "Chinese",
     "French",
     "German",
     "Hindi",
